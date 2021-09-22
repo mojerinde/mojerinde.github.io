@@ -10,7 +10,15 @@ Once on the website, "You" will choose the emoji (rock, paper or scissors) and c
 ​
 Having the link to the game is all that is necessary to play. You can change what hand you want to play anytime to switch up the results.
 
-## Running the tests
-​
-To run the test, I had to have the Live Server open to make sure it was working.
+### Error Handling
+
+I would make my game more interactive by adding more images.
+
+### Authors
+
+* Mary Ojerinde
+
+### Acknowlegements
+
+This game was created by following a tutorial through freeCodeCamp.org
 ​
